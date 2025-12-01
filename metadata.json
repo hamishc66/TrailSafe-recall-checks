@@ -1,0 +1,5 @@
+{
+  "name": "TrailSafe Recall",
+  "description": "An outdoor gear inventory manager that uses Gemini and Google Search to track safety recalls, expiry dates, and inspection schedules.",
+  "requestFramePermissions": []
+}
